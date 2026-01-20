@@ -3,7 +3,7 @@ I’m building a full-fledged web app that simplifies how tournaments are organi
 
 
 ## 🌐 Socials:
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge\&logo=vercel\&logoColor=white)](https://sarjanshah.in)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?logo=vercel\&logoColor=white)](https://sarjanshah.in)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram\&logoColor=white)](https://instagram.com/sarjan_1403)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin\&logoColor=white)](https://linkedin.com/in/sarjan-shah-3324a334b)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X\&logoColor=white)](https://x.com/SarjanShah3)
